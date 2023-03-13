@@ -1,0 +1,2 @@
+WHAT EACH SCRIPT IS DOING
+0. Hello world
